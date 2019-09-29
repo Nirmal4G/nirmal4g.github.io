@@ -1,0 +1,11 @@
+# humanstxt.org
+
+# TEAM
+	Nirmal Guru   -- Nirmal4G
+	Gouthamm Guru -- Gouthamm4G
+
+# THANKS
+	GitHub
+
+# TECHNOLOGY
+	Web (HTML, CSS, JS)
